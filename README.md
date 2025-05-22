@@ -1,28 +1,41 @@
-## About Me
+## 👋 About Me
 
-Hi, 
+Hi, I'm **Suganth** – a passionate **Full Stack Developer** and **DevOps Engineer** 😎.  
+I love writing code that creates real-world impact and makes life easier 😉
 
-I am Suganth. I am a Full Stack Developer and a DevOps Engineer😎. I love to code to make an impact in real life 😉
+---
 
-## Skill Set
+## 🧠 Skill Set
 
-`Languages`
+### 🚀 Frameworks & Libraries
+- **Python:** Django, FastAPI, Flask  
+- **JavaScript:** React.js, Node.js, Express  
+- **Frontend:** Bootstrap
 
-* Python
-* PHP
-* C
-* C++
-* Go Lang
-* Java
-* JavaScript
+### 💻 Programming Languages
+- Python
+- JavaScript
+- PHP
+- GoLang
+- Java
+- C, C++
 
-`Database`
+### 🗃️ Databases
+- MySQL
+- MongoDB
+- Redis
+- DynamoDB (AWS)
 
-* MongoDB
-* MySQL
+### ⚙️ Tools & Platforms
+- Docker & Docker Compose
+- Linux Shell Scripting (Bash)
+- Git & GitHub
+- AWS
+- Webpack / Gulp.js
 
-`Others`
+---
 
-* Docker
-* DockerCompose
-* Git
+## 📫 Let's Connect!
+
+I'm always up for collaborations, solving complex problems, or just chatting about tech.  
+Feel free to connect or drop a message!
