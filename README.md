@@ -40,6 +40,10 @@ I'm a passionate developer focused on creating impactful software solutions. Wit
 ### 👉 Frameworks & Libraries
 <p align="left">
   &emsp;
+  <a href="https://svelte.dev/" target="_blank"> 
+    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23F05033.svg?logo=Svelte&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React.js" src="https://img.shields.io/badge/React.js%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   </a>
@@ -127,7 +131,10 @@ I'm a passionate developer focused on creating impactful software solutions. Wit
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suganth-coder&theme=dark)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suganth-coder&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Suganth-coder&theme=default" />
+</picture>
 
 ## 📫 How to reach me
 - Email: worksugan@gmail.com
